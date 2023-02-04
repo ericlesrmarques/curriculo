@@ -1,0 +1,11 @@
+.icon-fab{
+    font-size: 200%;
+}
+
+.icon-fab {
+    position: fixed;
+    width: 8px;
+    height: 35px;
+    bottom: 40px;
+    right: 40px;
+} 
